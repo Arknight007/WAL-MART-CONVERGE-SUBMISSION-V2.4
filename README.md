@@ -1,4 +1,4 @@
-# 🛒 Walmart Clone — Demo Store (Walmart-inspired)
+# 🛒 Walmart Demo Store (Gemma API)
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-2ecc71?style=for-the-badge&logo=next.js&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14-27ae60?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)]()
